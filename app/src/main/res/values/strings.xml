@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tiendaderopa3</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_Camara">Camara</string>
+    <string name="iv_visor">visor</string>
+</resources>
